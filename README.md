@@ -1,19 +1,14 @@
-# Mern-Notes-App# 📝 MERN Notes App
+# MERN Notes App
 
 A full-stack notes-taking application built with the MERN stack (MongoDB, Express, React, Node.js) that includes user authentication, CRUD operations for notes, and secure token-based access.
 
 ---
 
-## 🚀 Live Demo
-
-Frontend: [https://your-frontend-url.netlify.app](#)  
-Backend: [https://your-backend-url.onrender.com](#)
-
 ---
 
-## 📌 Features
+## Features
 
-### ✅ Core Features
+### Core Features
 
 -   User authentication (Signup/Login) using **JWT**
 -   Secure, protected routes (only logged-in users can access dashboard)
@@ -22,7 +17,7 @@ Backend: [https://your-backend-url.onrender.com](#)
 -   Rich-text/plain-text note support
 -   Confirmation before deleting notes
 
-### 🌟 Stretch Goals
+### Stretch Goals
 
 -   [ ] Add tags/categories with filtering
 -   [ ] Upload images to notes (Cloudinary or base64)
@@ -30,7 +25,7 @@ Backend: [https://your-backend-url.onrender.com](#)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 
@@ -50,7 +45,7 @@ Backend: [https://your-backend-url.onrender.com](#)
 
 ---
 
-## 🏗️ Folder Structure
+## Folder Structure
 
 mern-notes-app/
 │
@@ -81,10 +76,6 @@ mern-notes-app/
 │ │ └── index.css
 │
 └── README.md
-
-yaml
-Copy
-Edit
 
 ---
 
