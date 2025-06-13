@@ -17,12 +17,6 @@ A full-stack notes-taking application built with the MERN stack (MongoDB, Expres
 -   Rich-text/plain-text note support
 -   Confirmation before deleting notes
 
-### Stretch Goals
-
--   [ ] Add tags/categories with filtering
--   [ ] Upload images to notes (Cloudinary or base64)
--   [ ] Search bar to filter notes by keyword
-
 ---
 
 ## Tech Stack
