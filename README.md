@@ -39,40 +39,6 @@ A full-stack notes-taking application built with the MERN stack (MongoDB, Expres
 
 ---
 
-## Folder Structure
-
-mern-notes-app/
-│
-├── backend/
-│ ├── models/
-│ │ ├── User.js
-│ │ └── Note.js
-│ ├── routes/
-│ │ ├── authRoutes.js
-│ │ └── notesRoutes.js
-│ ├── controllers/
-│ │ ├── authController.js
-│ │ └── notesController.js
-│ ├── middlewares/
-│ │ └── authMiddleware.js
-│ ├── server.js
-│ └── .env
-│
-├── frontend/
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── Login.js
-│ │ │ ├── Signup.js
-│ │ │ ├── Dashboard.js
-│ │ │ └── NoteEditor.js
-│ │ ├── App.js
-│ │ ├── index.js
-│ │ └── index.css
-│
-└── README.md
-
----
-
 ## ⚙️ Installation
 
 ### Prerequisites
