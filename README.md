@@ -39,7 +39,7 @@ A full-stack notes-taking application built with the MERN stack (MongoDB, Expres
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 ### Prerequisites
 
@@ -48,9 +48,20 @@ A full-stack notes-taking application built with the MERN stack (MongoDB, Expres
 
 ---
 
-### 🔧 Backend Setup
+### Backend Setup
 
 ```bash
 cd backend
 npm install
+# Add your .env file
+npm start
+```
+
+### Frontend Setup
+
+```bash
+cd frontend
+npm install
+# Add your .env file
+npm start
 ```
